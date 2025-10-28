@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # End-to-end-Medical-Chatbot-Generative-AI
 
 
@@ -57,3 +58,6 @@ open up localhost:
 - Flask
 - GPT
 - Pinecone
+=======
+# Medical-ChatBot-GenAI-
+>>>>>>> 0eb4d96ad5f7239944c4234b29318ca312f7e2be
