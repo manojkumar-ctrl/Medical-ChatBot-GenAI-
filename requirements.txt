@@ -1,0 +1,17 @@
+flask
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-huggingface
+langchain-pinecone
+sentence-transformers
+pypdf
+pinecone
+-e .
+
+
+# //from npm
+three
